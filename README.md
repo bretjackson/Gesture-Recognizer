@@ -4,7 +4,7 @@ Comp 128 HW1: Gesture Recognizer
 For this homework assignment, you will practice using data structures to implement an algorithm for gesture recognition of drawn 2D gestures.
 
 ### Due Dates
-This homework will have two milestones:
+This homework will have three milestones:
 
 * Part 1: For this milestone, you should answer the Part 1 Questions below. Submit your answers on the Moodle assignment that corresponds with this homework.
 * Part 2: For this milestone you should commit and push the code to allow a user to draw a gesture. The gesture does not need to be recognized at this point.
